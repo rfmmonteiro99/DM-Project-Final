@@ -1,9 +1,9 @@
-# DM-Project-Final
-MSc: Data Science and Advanced Analytics (Nova IMS) <br>
-Course: Data Mining <br>
-This repository holds all the Python code for the Data Mining project. <br>
+# Data Mining Project - Paralyzed Veterans of America
+**GroupBC members:**
+Bruno Belo, R20170735
+Rui Monteiro, R20170796
+Tomás Santos, R20170734
 
-Group members: <br>
-Bruno Belo <br>
-Rui Monteiro <br>
-Tomás Santos <br>
+**MSc:** Data Science and Advanced Analytics - Nova IMS
+**Course:** Data Mining
+2020/2021
