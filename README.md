@@ -1,4 +1,7 @@
 # Data Mining Project - Paralyzed Veterans of America
+
+Dataset (donors.csv): https://liveeduisegiunl-my.sharepoint.com/:x:/g/personal/r20170796_novaims_unl_pt/EYJW0iM7CnhKp0GB-_LLl-4B6_tqA3kOxW3LfclaZbh4vg?e=YN9jTx <br>
+
 **GroupBC members:** <br>
 Bruno Belo, R20170735 <br>
 Rui Monteiro, R20170796 <br>
